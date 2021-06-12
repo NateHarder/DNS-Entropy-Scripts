@@ -53,7 +53,7 @@ def main():
         i += 1
     # Show dataframe
     print(df)
-    df.to_csv(r'names2.csv')
+    df.to_csv(r'feature_set.csv')
 
 
 if __name__ == "__main__":
